@@ -6,6 +6,7 @@ class HelloWorld1 {
       System.out.println(x);
       System.out.println("new line");
       System.out.println("second new line");
+      System.out.println("Third new line");
 
    System.out.println("HelloWorld");
 }
