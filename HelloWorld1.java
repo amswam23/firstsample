@@ -4,6 +4,7 @@ class HelloWorld1 {
       System.out.println("Step1");
       int x=10;
       System.out.println(x);
+      System.out.println("new line");
 
    System.out.println("HelloWorld");
 }
