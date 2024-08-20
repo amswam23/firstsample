@@ -9,6 +9,8 @@ class HelloWorld1 {
       System.out.println("Third new line");
 
    System.out.println("HelloWorld");
+   System.out.println("HelloSwami");
+
 }
 
 }
